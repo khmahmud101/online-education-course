@@ -1,0 +1,24 @@
+.course{
+    
+    border-bottom:1px solid lightgrey;
+    margin-bottom: 5px;
+    margin-right: 10px;
+    padding-bottom: 5px;
+    margin-top:20px;
+}
+
+.course-name{
+    color:green;
+    font-weight: 400;
+}
+
+.enroll-button{
+    background-color: orange;
+    width:150px;
+    height: 30px;
+    border:1px solid darkgray;
+    border-radius: 5px;
+    cursor: pointer;
+    color:#000;
+    margin-bottom: 10px;
+}
